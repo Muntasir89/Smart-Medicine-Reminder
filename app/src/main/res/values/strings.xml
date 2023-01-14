@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SmartMedicineReminder</string>
+    <string name="reminder_message">It\'s Time to take your medicine</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.monim.smartmedicinereminder;
+package com.monim.SmartAlarm;
 
 import org.junit.Test;
 

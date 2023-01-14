@@ -1,4 +1,4 @@
-package com.monim.smartmedicinereminder.addmedicine;
+package com.monim.SmartAlarm.addmedicine;
 
 import androidx.appcompat.app.AppCompatActivity;
 
